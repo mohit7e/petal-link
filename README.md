@@ -4,7 +4,9 @@ Hand it a link. Watch the bouquet fold itself into a code you can scan.
 
 Petal Link turns any URL into a working QR code with a small animation: a bouquet of flowers breaks apart, and every petal and bud flies into place as a module of the code. The gaps fill in with colors from the nearest flower, so the finished code keeps the bouquet's palette.
 
-Try it at [ehmtoi.com/projects](https://ehmtoi.com/projects/index.html).
+**Live demo:** [mohit7e.github.io/petal-link](https://mohit7e.github.io/petal-link/)
+
+Also featured at [ehmtoi.com/projects](https://ehmtoi.com/projects/index.html).
 
 ## Features
 
